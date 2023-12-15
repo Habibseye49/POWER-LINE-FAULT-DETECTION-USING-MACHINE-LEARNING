@@ -1,0 +1,44 @@
+# Electrical Fault Detection and Diagnosis
+
+## Introduction
+This project aims to develop a machine learning-based system for detecting and diagnosing electrical faults in power lines. By analyzing various electrical parameters and patterns, the system can identify and classify different types of faults, enabling prompt detection and efficient maintenance.
+
+## Features
+- Real-time monitoring of power lines
+- Automatic fault detection and classification
+- Accurate fault diagnosis and localization
+- Historical data analysis for predictive maintenance
+- User-friendly interface for visualization and control
+
+## Installation
+1. Clone the repository:
+    ```
+    git clone https://github.com/Habibseye49/POWER-LINE-FAULT-DETECTION-USING-MACHINE-LEARNING.git
+    ```
+2. Install the required dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Configure the system by updating the necessary settings in the configuration file.
+
+## Usage
+1. Start the system by running the main script:
+    ```
+    python main.py
+    ```
+2. Access the web interface by opening the provided URL in your browser.
+3. Monitor the power lines, view detected faults, and analyze historical data.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any inquiries or feedback, please contact us at [email protected]
